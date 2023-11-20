@@ -1,5 +1,5 @@
 # camera-calibration
-You can estimate the camera intrinsic parameters using checkerboard images took from various different view points. 
+You can estimate the camera intrinsic parameters using checkerboard images taken from various different view points. 
 Refer to the brief explanation [here](https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html).
 
 ## Install 
